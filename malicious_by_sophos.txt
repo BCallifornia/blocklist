@@ -1,0 +1,3 @@
+# entries of Websites that were defined as malicious by sophos home cloud
+127.0.0.1   in-page-push.com
+127.0.0.1   d24ak3f2b.top
